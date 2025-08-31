@@ -1,10 +1,10 @@
-# 💸 Personal Finance Chatbot
+# Personal Finance Chatbot
 
 A **persona-driven AI chatbot** that helps users learn personal finance in multiple ways. Built with **Streamlit** and **Groq API**, the app allows users to interact with three distinct personas: Professional, Creative, and Technical.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to make **personal finance education more approachable**. Users can chat with different AI personas:
 
@@ -27,7 +27,7 @@ The chat history is maintained for context, and users can export conversations i
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. **Clone the repository:**
 ```bash
