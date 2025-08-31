@@ -1,0 +1,6 @@
+groq
+streamlit
+python-dotenv
+tenacity
+tiktoken
+rich
