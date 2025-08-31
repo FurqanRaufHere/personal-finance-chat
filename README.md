@@ -33,4 +33,38 @@ The chat history is maintained for context, and users can export conversations i
 ```bash
 git clone https://github.com/your-username/personal-finance-chat.git
 cd personal-finance-chat
+```
+
+2. **Create a virtual environment:**
+```bash
+python -m venv venv
+```
+
+3. **Activate the virtual environment:**
+   - **Mac/Linux:**
+   ```bash
+   source venv/bin/activate
+   ```
+   - **Windows:**
+   ```bash
+   venv\Scripts\activate
+   ```
+
+4. **Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+5. **Set up your Groq API key:**
+   - Create a `.env` file in the project root
+   - Add your API key:
+   ```env
+   GROQ_API_KEY=your_api_key_here
+   ```
+   - Replace `your_api_key_here` with your actual Groq API key
+
+6. **Run the Streamlit app:**
+```bash
+streamlit run src/web_app.py
+```
 
