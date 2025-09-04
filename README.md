@@ -12,7 +12,7 @@ This project aims to make **personal finance education more approachable**. User
 - **Creative Companion:** Uses stories, metaphors, and analogies to explain finance concepts in a fun, memorable way.  
 - **Technical Expert:** Breaks down finance questions with formulas, calculations, and detailed steps.
 
-The chat history is maintained for context, and users can export conversations in **JSON** or **TXT** formats for reference.
+The chat history is maintained for context, and users can export conversations in **TXT** format for reference.
 
 ---
 
